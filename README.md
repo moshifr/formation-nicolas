@@ -114,6 +114,10 @@ Avoir :
 Etapes : 
 
 - Créer les entités
+```
+Utiliser : 
+bin/console make:entity
+  ```
 - Créer les routes pour l'API 
 - Utiliser fetch() et await 
 - Les afficher avec un v-for
